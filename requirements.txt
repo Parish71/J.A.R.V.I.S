@@ -1,0 +1,7 @@
+pip install openai
+pip install python-dotenv
+pip install SpeechRecognition
+pip install pyttsx3
+pip install shelve
+pip install pytest pytest-mock
+pip install pytest
